@@ -57,6 +57,9 @@ public class ArraysMain {
 		
 		
 		p.close();
+
+		//Ejercicio 5
+		System.out.println("Extra");
 	}
 
 }
